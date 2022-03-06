@@ -12,7 +12,7 @@ A browser will a page that shows my assignment result.\
 
 ### Display result
 
-![alt text](https://github.com/Johnspeanut/cs5610Assignment5/tree/master/assignment5/display.PNG)
+![alt text](https://github.com/Johnspeanut/cs5610Assignment5/blob/master/assignment5/display.PNG)
 
 ## 3.Explanation
 ### Task 1:Child component
